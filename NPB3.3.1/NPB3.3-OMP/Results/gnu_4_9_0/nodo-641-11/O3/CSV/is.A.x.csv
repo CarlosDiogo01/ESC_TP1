@@ -1,0 +1,83 @@
+"Dstat 0.7.2 CSV output"
+"Author:","Dag Wieers <dag@wieers.com>",,,,"URL:","http://dag.wieers.com/home-made/dstat/"
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:09:40 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.388,7.802,41.739,0.066,0.000,0.006,269.122,18548.187,876937216.0,79437824.0,93384704.0,66608865280.0
+3.096,0.063,96.842,0.0,0.0,0.0,0.0,0.0,906637312.0,79437824.0,93392896.0,66579156992.0
+3.127,0.063,96.779,0.0,0.0,0.031,0.0,0.0,944459776.0,79437824.0,93396992.0,66541330432.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:09:45 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.388,7.802,41.739,0.066,0.000,0.006,269.122,18548.176,879767552.0,79437824.0,93401088.0,66606018560.0
+6.219,0.125,93.656,0.0,0.0,0.0,0.0,0.0,941727744.0,79437824.0,93401088.0,66544058368.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:09:48 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.388,7.802,41.739,0.066,0.000,0.006,269.122,18548.170,881803264.0,79437824.0,93401088.0,66603982848.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:09:51 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.388,7.802,41.739,0.066,0.000,0.006,269.122,18548.162,890085376.0,79437824.0,93401088.0,66595700736.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:09:53 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.388,7.802,41.739,0.066,0.000,0.006,269.122,18548.154,903012352.0,79437824.0,93405184.0,66582769664.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:09:55 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.388,7.802,41.739,0.066,0.000,0.006,269.122,18548.151,902766592.0,79446016.0,93405184.0,66583007232.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:09:58 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.387,7.802,41.739,0.066,0.000,0.006,269.122,18548.145,904179712.0,79446016.0,93405184.0,66581594112.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:10:00 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.387,7.802,41.739,0.066,0.000,0.006,269.122,18548.138,904622080.0,79446016.0,93409280.0,66581147648.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:10:02 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.387,7.802,41.739,0.066,0.000,0.006,269.122,18548.143,907128832.0,79454208.0,93421568.0,66578620416.0
+
+
+"Host:","compute-641-12.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output is.A.x.csv",,,,"Date:","25 Feb 2016 16:10:04 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+50.387,7.802,41.739,0.066,0.000,0.006,269.121,18548.140,906493952.0,79454208.0,93421568.0,66579255296.0

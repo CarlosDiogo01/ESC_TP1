@@ -1,0 +1,24 @@
+#!/bin/sh
+
+#PBS -N nehalem_MPI_ETH 
+#PBS -l walltime=02:30:00
+#PBS -q mei
+
+#PBS -m abe
+#PBS -M carlos.sa01@gmail.com
+
+#PBS -l nodes=2:r431:ppn=24
+
+read -r node_info<$PBS_NODEFILE
+
+echo "Allocated computing node: $node_info"
+
+cd ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI
+
+module purge
+module load gnu/4.9.0
+module load gnu/4.9.3
+module load gnu/openmpi_eth/1.8.4
+mpi_info --param mpi all
+
+sh script_nehalem_eth.sh
