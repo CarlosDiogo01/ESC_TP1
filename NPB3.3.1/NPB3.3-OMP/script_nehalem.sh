@@ -4,7 +4,7 @@ cd ~/ESC_TP1/NPB3.3.1/NPB3.3-OMP/
 
 read -r node_info<$PBS_NODEFILE
 
-cd Results/gnu_4_9_3
+cd Results/intel_2013_1_117
 
 mkdir $node_info
 
@@ -19,10 +19,10 @@ do
 	do
 		echo "Running ( $num_threads threads parallel code)"
 		export OMP_NUM_THREADS=$num_threads
-		cd ../Results/gnu_4_9_3/$node_info
+		cd ../Results/intel_2013_1_117/$node_info
 		/home/a59905/dstat -cdm --output $file.csv >> /dev/null &
 		cd ../../../bin
-		./$file >> ../Results/gnu_4_9_3/$node_info/"$file.txt"
+		./$file >> ../Results/intel_2013_1_117/$node_info/"$file.txt"
 		kill $!
 		sleep 2
 	done

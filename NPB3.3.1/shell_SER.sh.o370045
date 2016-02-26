@@ -1,0 +1,87 @@
+rm -f core 
+rm -f *~ */core */*~ */*.o */npbparams.h */*.obj */*.exe
+rm -f sys/setparams sys/makesuite sys/setparams.h
+rm -f {DC/,}ADC.{logf,view,dat,viewsz,groupby,chunks}.* 
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+rm -f *.o *~ mputil*
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+rm -f *.o *~ 
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+rm -f *.o *~ 
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+rm -f *.o *~ mputil*
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+rm -f *.o *~ 
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+rm -f *.o *~ 
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+rm -f *.o *~ mputil*
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/IS'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+rm -f *.o *~ 
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/EP'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+rm -f *.o *~ 
+rm -f npbparams.h core
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+make[1]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+make[2]: Entering directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+icc  -o setparams setparams.c
+make[2]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/sys'
+make[1]: Leaving directory `/home/a59905/ESC_TP1/NPB3.3.1/NPB3.3-SER/CG'
+370047.search6.di.uminho.pt
+370048.search6.di.uminho.pt

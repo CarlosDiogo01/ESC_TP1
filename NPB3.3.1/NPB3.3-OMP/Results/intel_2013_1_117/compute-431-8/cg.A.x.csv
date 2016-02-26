@@ -1,0 +1,74 @@
+"Dstat 0.7.2 CSV output"
+"Author:","Dag Wieers <dag@wieers.com>",,,,"URL:","http://dag.wieers.com/home-made/dstat/"
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:47:59 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.526,217628.687,735723520.0,110460928.0,2972000256.0,46922809344.0
+4.163,0.083,95.712,0.0,0.0,0.042,0.0,0.0,757575680.0,110460928.0,2972524544.0,46900432896.0
+
+
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:48:03 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.525,217628.655,735674368.0,110465024.0,2972696576.0,46922158080.0
+8.295,0.042,91.663,0.0,0.0,0.0,0.0,0.0,758034432.0,110465024.0,2972696576.0,46899798016.0
+
+
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:48:06 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.524,217628.630,735756288.0,110473216.0,2972708864.0,46922055680.0
+
+
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:48:09 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.523,217628.604,741556224.0,110477312.0,2972704768.0,46916255744.0
+
+
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:48:11 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.522,217628.584,744734720.0,110477312.0,2972712960.0,46913069056.0
+
+
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:48:14 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.522,217628.562,750514176.0,110481408.0,2972712960.0,46907285504.0
+
+
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:48:16 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.521,217628.540,758390784.0,110481408.0,2972717056.0,46899404800.0
+
+
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:48:19 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.520,217628.519,766496768.0,110485504.0,2972712960.0,46891298816.0
+
+
+"Host:","compute-431-8.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.x.csv",,,,"Date:","26 Feb 2016 14:48:21 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+25.048,1.772,73.165,0.012,0.000,0.003,7338.519,217628.497,741076992.0,110485504.0,2972721152.0,46916710400.0

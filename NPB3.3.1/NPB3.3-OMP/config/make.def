@@ -29,7 +29,7 @@
 #---------------------------------------------------------------------------
 # This is the fortran compiler used for Fortran programs
 #---------------------------------------------------------------------------
-F77 = gfortran
+F77 = ifort
 # This links fortran programs; usually the same as ${F77}
 FLINK	= $(F77)
 
@@ -46,13 +46,13 @@ F_INC =
 #---------------------------------------------------------------------------
 # Global *compile time* flags for Fortran programs
 #---------------------------------------------------------------------------
-FFLAGS	= -O2 -fopenmp
+FFLAGS	= -O2 -openmp
 
 #---------------------------------------------------------------------------
 # Global *link time* flags. Flags for increasing maximum executable 
 # size usually go here. 
 #---------------------------------------------------------------------------
-FLINKFLAGS = -O2 -fopenmp
+FLINKFLAGS = -O2 -openmp
 
 
 #---------------------------------------------------------------------------
@@ -75,7 +75,7 @@ FLINKFLAGS = -O2 -fopenmp
 #---------------------------------------------------------------------------
 # This is the C compiler used for C programs
 #---------------------------------------------------------------------------
-CC = gcc
+CC = icc
 # This links C programs; usually the same as ${CC}
 CLINK	= $(CC)
 
@@ -104,13 +104,13 @@ C_INC =
 # _LARGEFILE64_SOURCE - are standard compiler flags which allow to work with 
 # files larger than 2GB.
 #---------------------------------------------------------------------------
-CFLAGS	= -O2 -fopenmp
+CFLAGS	= -O2 -openmp
 
 #---------------------------------------------------------------------------
 # Global *link time* flags. Flags for increasing maximum executable 
 # size usually go here. 
 #---------------------------------------------------------------------------
-CLINKFLAGS = -O2 -fopenmp
+CLINKFLAGS = -O2 -openmp
 
 
 #---------------------------------------------------------------------------
@@ -120,7 +120,7 @@ CLINKFLAGS = -O2 -fopenmp
 # this compiler go here also; typically there are few flags required; hence 
 # there are no separate macros provided for such flags.
 #---------------------------------------------------------------------------
-UCC	= gcc
+UCC	= icc
 
 
 #---------------------------------------------------------------------------
