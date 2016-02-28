@@ -13,12 +13,30 @@
 # Comments start with "#" as the first character on a line. 
 # No blank lines. 
 # The following example builds 1 processor sample sizes of all benchmarks. 
-#ft	S	1
-#mg	S	1
-#sp	S	1
-#lu	S	1
-#bt	S	1
-is	A	1
-ep	A	1
-cg	A	1
-#dt	S	1
+is	A	8
+ep	A	8
+cg	A	8
+is	B	8
+ep	B	8
+cg	B	8
+is	C	8
+ep	C	8
+cg	C	8
+is	A	16
+ep	A	16
+cg	A	16
+is	B	16
+ep	B	16
+cg	B	16
+is	C	16
+ep	C	16
+cg	C	16
+is	A	32
+ep	A	32
+cg	A	32
+is	B	32
+ep	B	32
+cg	B	32
+is	C	32
+ep	C	32
+cg	C	32
