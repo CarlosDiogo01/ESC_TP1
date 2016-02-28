@@ -7,7 +7,7 @@
 #PBS -m abe
 #PBS -M carlos.sa01@gmail.com
 
-#PBS -l nodes=2:r431:ppn=24
+#PBS -l nodes=compute-431-8:ppn=24+compute-431-9:ppn=24
 
 read -r node_info<$PBS_NODEFILE
 
@@ -19,6 +19,6 @@ module purge
 module load gnu/4.9.0
 module load gnu/4.9.3
 module load gnu/openmpi_eth/1.8.4
-mpi_info --param mpi all
+ompi_info --param mpi all
 
-sh script_nehalem_mx.sh
+sh scripts/script_nehalem_mx.sh
