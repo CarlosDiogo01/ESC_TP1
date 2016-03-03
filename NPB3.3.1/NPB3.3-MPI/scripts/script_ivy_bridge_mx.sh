@@ -2,14 +2,13 @@
 
 cd ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/
 
-read -r node_info<$PBS_NODEFILE
+read -r node_info<$PBS_NODEFILE 
 
 cd Results/Mx/8
 
 mkdir $node_info
 
 cd ../../../bin
-
 
 for file in *.8
 do
@@ -21,11 +20,10 @@ do
 		sleep 2
 done
 
-
-
-
 cd ../Results/Mx/16
+
 mkdir $node_info
+
 cd ../../../bin
 
 for file in *.16
@@ -38,11 +36,11 @@ do
 		sleep 2
 done
 
-
 cd ../Results/Mx/32
-mkdir $node_info
-cd ../../../bin
 
+mkdir $node_info
+
+cd ../../../bin
 
 for file in *.32
 do
@@ -53,4 +51,4 @@ do
 		kill $!
 		sleep 2
 done
-echo "Done.."
+echo "Done..."

@@ -1,0 +1,8 @@
+"Dstat 0.7.2 CSV output"
+"Author:","Dag Wieers <dag@wieers.com>",,,,"URL:","http://dag.wieers.com/home-made/dstat/"
+"Host:","compute-431-3.local",,,,"User:","a59905"
+"Cmdline:","dstat -cdm --output cg.A.16.csv",,,,"Date:","29 Feb 2016 11:20:52 WET"
+
+"total cpu usage",,,,,,"dsk/total",,"memory usage",,,
+"usr","sys","idl","wai","hiq","siq","read","writ","used","buff","cach","free"
+13.823,0.333,85.797,0.012,0.000,0.035,218.763,8173.009,327397376.0,142151680.0,120766464.0,12024672256.0
