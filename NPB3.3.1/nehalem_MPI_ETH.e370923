@@ -1,0 +1,531 @@
+[compute-431-3.local:16104] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16104] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16104] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16104] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16104] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16104] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16104] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16104] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16103 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16125] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16125] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16125] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16125] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16125] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16125] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16125] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16125] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16124 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16145] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16145] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16145] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16145] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16145] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16145] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16145] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16145] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16144 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16165] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16165] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16165] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16165] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16165] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16165] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16165] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16165] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16164 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16185] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16185] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16185] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16185] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16185] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16185] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16185] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16185] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16184 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16205] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16205] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16205] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16205] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16205] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16205] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16205] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16205] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16204 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16227] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16227] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16227] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16227] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16227] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16227] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16227] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16227] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16226 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16247] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16247] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16247] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16247] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16247] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16247] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16247] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16247] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16246 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16267] MCW rank 7 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+[compute-431-3.local:16267] MCW rank 0 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-3.local:16267] MCW rank 1 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-3.local:16267] MCW rank 2 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-3.local:16267] MCW rank 3 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-3.local:16267] MCW rank 4 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-3.local:16267] MCW rank 5 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-3.local:16267] MCW rank 6 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+scripts/script_nehalem_eth.sh: line 13: 16266 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/8/compute-431-3)
+[compute-431-3.local:16288] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16288] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16287 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16324] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16324] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16323 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16361] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16361] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16360 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16399] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16399] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16398 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16435] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16435] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16434 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16471] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16471] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16470 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16508] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16508] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16507 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16544] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16544] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16543 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16580] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16580] MCW rank 13 is not bound (or bound to all available processors)
+scripts/script_nehalem_eth.sh: line 29: 16579 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/16/compute-431-3)
+[compute-431-3.local:16617] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:16617] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:14966] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:14966] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:14966] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:14966] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:14966] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:14966] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:14966] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:14966] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 16616 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
+[compute-431-3.local:16669] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:16669] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:14983] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:14983] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:14983] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:14983] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:14983] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:14983] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:14983] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:14983] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 16668 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
+[compute-431-3.local:16721] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:16721] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:15000] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:15000] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:15000] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:15000] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:15000] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:15000] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:15000] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:15000] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 16720 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
+[compute-431-3.local:16773] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:16773] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:15017] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:15017] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:15017] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:15017] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:15017] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:15017] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:15017] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:15017] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 16772 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
+[compute-431-3.local:16825] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:16825] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:15034] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:15034] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:15034] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:15034] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:15034] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:15034] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:15034] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:15034] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 16824 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
+[compute-431-3.local:16877] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:16877] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:15051] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:15051] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:15051] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:15051] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:15051] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:15051] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:15051] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:15051] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 16876 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
+[compute-431-3.local:16929] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:16929] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:15068] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:15068] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:15068] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:15068] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:15068] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:15068] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:15068] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:15068] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 16928 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
+[compute-431-3.local:16981] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:16981] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:15085] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:15085] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:15085] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:15085] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:15085] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:15085] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:15085] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:15085] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 16980 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
+[compute-431-3.local:17033] MCW rank 18 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 19 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 20 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 21 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 22 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 23 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 0 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 1 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 2 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 3 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 4 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 5 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 6 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 7 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 8 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 9 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 10 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 11 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 12 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 13 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 14 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 15 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 16 is not bound (or bound to all available processors)
+[compute-431-3.local:17033] MCW rank 17 is not bound (or bound to all available processors)
+[compute-431-2.local:15102] MCW rank 24 bound to socket 0[core 0[hwt 0-1]]: [BB/../../../../..][../../../../../..]
+[compute-431-2.local:15102] MCW rank 25 bound to socket 1[core 6[hwt 0-1]]: [../../../../../..][BB/../../../../..]
+[compute-431-2.local:15102] MCW rank 26 bound to socket 0[core 1[hwt 0-1]]: [../BB/../../../..][../../../../../..]
+[compute-431-2.local:15102] MCW rank 27 bound to socket 1[core 7[hwt 0-1]]: [../../../../../..][../BB/../../../..]
+[compute-431-2.local:15102] MCW rank 28 bound to socket 0[core 2[hwt 0-1]]: [../../BB/../../..][../../../../../..]
+[compute-431-2.local:15102] MCW rank 29 bound to socket 1[core 8[hwt 0-1]]: [../../../../../..][../../BB/../../..]
+[compute-431-2.local:15102] MCW rank 30 bound to socket 0[core 3[hwt 0-1]]: [../../../BB/../..][../../../../../..]
+[compute-431-2.local:15102] MCW rank 31 bound to socket 1[core 9[hwt 0-1]]: [../../../../../..][../../../BB/../..]
+scripts/script_nehalem_eth.sh: line 45: 17032 Terminated              /home/a59905/dstat -cdm --output $file.csv >> /dev/null  (wd: ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/Results/Eth/32/compute-431-3)
