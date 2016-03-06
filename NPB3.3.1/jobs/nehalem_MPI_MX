@@ -1,13 +1,13 @@
 #!/bin/sh
 
 #PBS -N nehalem_MPI_MX
-#PBS -l walltime=02:30:00
+#PBS -l walltime=00:50:00
 #PBS -q mei
 
 #PBS -m abe
 #PBS -M carlos.sa01@gmail.com
 
-#PBS -l nodes=compute-431-8:ppn=24+compute-431-9:ppn=24
+#PBS -V -lnodes=2:r431:ppn=24:myri
 
 read -r node_info<$PBS_NODEFILE
 

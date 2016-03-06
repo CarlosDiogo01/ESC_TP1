@@ -1,9 +1,8 @@
 #!/bin/sh
 
 module purge
-module load gnu/4.9.0
-module load gnu/4.9.3
-module load gnu/openmpi_eth/1.8.4
+module load intel/2013.1.117
+module load intel/openmpi_eth/1.8.2
 ompi_info --param mpi all
 
 cd ~/ESC_TP1/NPB3.3.1/NPB3.3-MPI/
